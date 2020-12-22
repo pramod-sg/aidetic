@@ -1,0 +1,12 @@
+table{
+    width: auto;
+    height: 200px;
+    display: inline-block;
+     overflow: auto;
+}
+
+th,td{
+    width: 170px;
+}
+
+
